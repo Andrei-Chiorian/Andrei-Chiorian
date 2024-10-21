@@ -123,42 +123,42 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 </p>
 </details>
 
+<details>
+  <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
+  <a href="https://github.com/ParthJohri">
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Github.gif" width="70"/>
+  </a>
+  <a href="https://linkedin.com/in/parthjohri07">
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
+  </a>
+  <a href="https://www.quora.com/profile/Parth-Johri-6">
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Quora.gif" width="70"/>
+  </a>
+</div>
+
+  
+</details>
+
 <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/activity.gif"  width="25"/> Recent Activity
 
-  <!--START_SECTION:activity-->
 
-🗣 Commented on #2944 in actualbudget/actual
+## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
 
-  <!--END_SECTION:activity-->
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+   
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+  
+  </div>
+</details>
 
--   uses: Platane/snk@v3
-    with:
-
-    # github user name to read the contribution graph from (**required**)
-
-    # using action context var `github.repository_owner` or specified user
-
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-
-    # one file per line. Each output can be customized with options as query string.
-
-    #
-
-    # supported options:
-
-    # - palette: A preset of color, one of [github, github-dark, github-light]
-
-    # - color_snake: Color of the snake
-
-    # - color_dots: Coma separated list of dots color.
-
-    # The first one is 0 contribution, then it goes from the low contribution to the highest.
-
-    # Exactly 5 colors are expected.
-
-    outputs: |
-    dist/github-snake.svg
-    dist/github-snake-dark.svg?palette=github-dark
-    dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/ParthJohri/ParthJohri/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
