@@ -69,8 +69,8 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=%2361DAFB)
-![Tensorflow](https://img.shields.io/badge/tensorflow-%2320232a.svg?style=for-the-badge&logo=tensorflow&logoColor=%2361DAFB)
-![Numpy](https://img.shields.io/badge/numpy-%2320232a.svg?style=for-the-badge&logo=numpy&logoColor=%2361DAFB)
+![Tensorflow](https://img.shields.io/badge/tensorflow-%23563D7C.svg?style=for-the-badge&logo=tensorflow&logoColor=%2361DAFB)
+![Numpy](https://img.shields.io/badge/numpy-%234ea94b.svg?style=for-the-badge&logo=numpy&logoColor=%2361DAFB)
 ![Pandas](https://img.shields.io/badge/pandas-%2320232a.svg?style=for-the-badge&logo=pandas&logoColor=%2361DAFB)
 
 #### Deployment
@@ -81,8 +81,8 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 
  #### Tools
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-%23F24E1E.svg?style=for-the-badge&logo=vscode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-%23F24E1E.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-%23ED8B00.svg?style=for-the-badge&logo=vscode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-%231572B6.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)   
 
 
