@@ -10,8 +10,8 @@
 </div>
 
 <div align="center">
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/python.svg" width="200" />
  <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/flask.svg" width="200" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/academics.svg" width="200" />
 
 </div>
 
