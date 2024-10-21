@@ -12,17 +12,17 @@
 </div>
 <hr>
 <div align="center">
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/python.svg" width="50" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/56b54f10b4a44072e96a190fafb8aacc4267afd6/blob/main/icons/flask.svg" width="80" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/numpy.svg" width="80" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/56b54f10b4a44072e96a190fafb8aacc4267afd6/blob/main/icons/pandas.svg" width="80" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/tensorflow.svg" width="80" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/js.svg" width="80" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/react.svg" width="80" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/redux-saga.svg" width="80" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/redux.svg" width="80" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/11b3760716992b7e02988fc17207e17bd59f8095/blob/main/icons/php.svg" width="80" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/11b3760716992b7e02988fc17207e17bd59f8095/blob/main/icons/laravel.svg" width="80" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/python.svg" width="80" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/56b54f10b4a44072e96a190fafb8aacc4267afd6/blob/main/icons/flask.svg" width="60" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/numpy.svg" width="60" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/56b54f10b4a44072e96a190fafb8aacc4267afd6/blob/main/icons/pandas.svg" width="60" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/tensorflow.svg" width="60" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/js.svg" width="60" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/react.svg" width="60" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/redux-saga.svg" width="60" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/redux.svg" width="60" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/11b3760716992b7e02988fc17207e17bd59f8095/blob/main/icons/php.svg" width="60" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/11b3760716992b7e02988fc17207e17bd59f8095/blob/main/icons/laravel.svg" width="60" />
 </div>
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
