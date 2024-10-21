@@ -1,8 +1,7 @@
-<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm Andrei</h1>
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+<h1 align="center">Hi<img src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/Hi.gif" width="28px"/>, I'm Andrei</h1>
+<h2 align="center"> 
   Fullstack Developer
-  <a href="https://[your-portfolio-link]">
+  <a href="https://github.com/Andrei-Chiorian">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
@@ -26,7 +25,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 <details>
     <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
     <span><img src="https://img.shields.io/badge/FPII-Alfonso X El Sabio-1877F2?style=for-the-badge"></span>
-    <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
+    <span><img src="https://img.shields.io/badge/GPA-8.39/100-EFEEE9?style=for-the-badge"></span>
 </details>
 
 <details>
