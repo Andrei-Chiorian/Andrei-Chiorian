@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://i.gifer.com/4SHX.gif" width="28px"/>, I'm Andrei</h1>
 <h2 align="center"> 
   Fullstack Developer
-  <a href="https://github.com/Andrei-Chiorian" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=https://andreiwebdevelopment.es/img/logo-new.png&logoColor=white" alt="Portfolio" style="height:22px;">
+  <a href="https://andreiwebdevelopment.es/" target="blank">
+    <img src="https://img.shields.io/badge/AWD-Portfolio-543DE0?style=for-the-badge&logo=https://andreiwebdevelopment.es/img/logo-new.png&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
 <div align="center">
