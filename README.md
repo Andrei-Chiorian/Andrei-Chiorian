@@ -1,10 +1,12 @@
 <h1 align="center">Hi <img src="https://i.gifer.com/4SHX.gif" width="28px"/>, I'm Andrei</h1>
+
 <h2 align="center"> 
   Fullstack Developer
   <a href="https://andreiwebdevelopment.es/" target="_blank">
     <img src="https://img.shields.io/badge/AWD-Portfolio-543DE0?style=for-the-badge&logo=https://andreiwebdevelopment.es/img/logo-new.png&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
+
 <div align="center">
  <img alt="GIF" src="https://andreiwebdevelopment.es/img/logo-new.png" width="350" />
 </div>
@@ -34,7 +36,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
        Resume
        </h2>
    </summary>
-</details>
+
 
 <details>
     <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
@@ -56,6 +58,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 </details>
 
+</details>
   <details>
     <summary><h2> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
     <div align="center">
