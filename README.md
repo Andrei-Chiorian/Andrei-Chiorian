@@ -118,7 +118,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 <p>
     <i>You can reach out to me via</i>
     <a href="mailto:[your-email]">
-    <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/Gmail.gif" width="100"/>
+    <img align="center" src="https://i.gifer.com/QHTn.gif" width="100"/>
     </a>
 </p>
 </details>
