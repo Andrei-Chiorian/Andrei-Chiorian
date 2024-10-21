@@ -39,33 +39,42 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 
 
 <details>
-    <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+    <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
     <span><img src="https://img.shields.io/badge/FPII-Alfonso X El Sabio-1877F2?style=for-the-badge"></span>
     <span><img src="https://img.shields.io/badge/GPA-8.39/100-EFEEE9?style=for-the-badge"></span>
 </details>
 
 <details>
-    <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+    <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
     - **[Your Role] ** at [Company] | [Duration]
     - [Work Description]
 </details>
 
   
 <details>
-    <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
-    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+    <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+    
+#### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)    
+
+#### Libraries/Frameworks
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 </details>
 
 </details>
   <details>
-    <summary><h2> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+    <summary><h2> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
     <div align="center">
-      ![](https://github-readme-stats.vercel.app/api?username=Andrei-Chiorian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-      ![](https://github-readme-streak-stats.herokuapp.com/?user=Andrei-Chiorian&theme=tokyonight&hide_border=false)<br/>
-      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Chiorian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-      ![](https://github-readme-activity-graph.vercel.app/graph?username=Andrei-Chiorian&theme=tokyo-night)
+![](https://github-readme-stats.vercel.app/api?username=Andrei-Chiorian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Andrei-Chiorian&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Chiorian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Andrei-Chiorian&theme=tokyo-night)
     </div>
   </details>
   
