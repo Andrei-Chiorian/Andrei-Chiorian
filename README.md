@@ -63,8 +63,9 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 </details>
 
   
-<details>
-    <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+
+## <img align ='center' src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/techstack.gif" width="37" /> Tech Stack
+<div align="center">
     
 #### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -98,7 +99,6 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)   
 
 
-</details>
 
 </details>
  
