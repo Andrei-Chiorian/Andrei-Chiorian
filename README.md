@@ -152,7 +152,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 <!--END_SECTION:activity-->
 
 
-## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
+## <img align ='center' src='https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/785c78033a3d7e1181485a4ec7a0aad6ccbfb1cf/blob/main/icons/joke.gif' width ='37' /> Random Joke 
 
 <details>
   <summary>Click to see a random joke</summary>
