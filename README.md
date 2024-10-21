@@ -13,9 +13,9 @@
 
 <div align="center">
  <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/python.svg" width="100" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/flask.svg" width="100" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/56b54f10b4a44072e96a190fafb8aacc4267afd6/blob/main/icons/flask.svg" width="100" />
  <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/numpy.svg" width="100" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/pandas.svg" width="100" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/56b54f10b4a44072e96a190fafb8aacc4267afd6/blob/main/icons/pandas.svg" width="100" />
  <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/tensorflow.svg" width="100" />
  <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/js.svg" width="100" />
  <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/react.svg" width="100" />
