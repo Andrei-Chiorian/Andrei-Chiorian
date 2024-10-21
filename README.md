@@ -2,7 +2,7 @@
 <h2 align="center"> 
   Fullstack Developer
   <a href="https://github.com/Andrei-Chiorian" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=https://andreiwebdevelopment.es&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
 <div align="center">
