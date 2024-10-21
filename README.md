@@ -114,34 +114,16 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Andrei-Chiorian&theme=tokyo-night)
    
 
-  
 
-
-### Leetcode
-
-  <div align="center">
-
-![LeetCode Stats](https://leetcode.card.workers.dev/Andrei-Chiorian?theme=auto&font=baloo&extension=null)
-
-  </div>
-
-### Codeforces
-
-  <div align="center">
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Andrei-Chiorian)
-
-  </div>
-
-  <details>
-    <summary><h2> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-    <p>
-      <i>You can reach out to me via</i>
-      <a href="mailto:[your-email]">
-        <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/Gmail.gif" width="100"/>
-      </a>
-    </p>
-  </details>
+<details>
+<summary><h2> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+<p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[your-email]">
+    <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+</p>
+</details>
 
 <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/activity.gif"  width="25"/> Recent Activity
 
