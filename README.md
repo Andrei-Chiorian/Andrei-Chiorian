@@ -141,7 +141,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
   
 </details>
 
-### <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
+### <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/016aaec567e41f2fa9ca260f9fed63d2a6c8a3ad/blob/main/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/Andrei-Chiorian/Andrei-Chiorian/pull/1) in [Andrei-Chiorian/Andrei-Chiorian](https://github.com/Andrei-Chiorian/Andrei-Chiorian)
