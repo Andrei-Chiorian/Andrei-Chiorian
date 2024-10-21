@@ -128,7 +128,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
   <a href="https://github.com/ParthJohri">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Github.gif" width="70"/>
+    <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/readME/icons/Github.gif" width="70"/>
   </a>
   <a href="https://linkedin.com/in/parthjohri07">
     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
@@ -141,7 +141,15 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
   
 </details>
 
-<img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/activity.gif"  width="25"/> Recent Activity
+### <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
+
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/Andrei-Chiorian/Andrei-Chiorian/pull/1) in [Andrei-Chiorian/Andrei-Chiorian](https://github.com/Andrei-Chiorian/Andrei-Chiorian)
+2. 💪 Opened PR [#1](https://github.com/Andrei-Chiorian/Andrei-Chiorian/pull/1) in [Andrei-Chiorian/polygonAreaCalculator](https://github.com/ParthJohri/ParthJohri)
+3. 💪 Opened PR [#1](https://github.com/Andrei-Chiorian/Andrei-Chiorian/pull/1) in [Andrei-Chiorian/projectileTrajectoryCalculator](https://github.com/newwwie/newwwie.com)
+4. 💪 Opened PR [#1](https://github.com/newwwie/newwwie.com/pull/128) in [Andrei-Chiorian/newwwie.com](https://github.com/newwwie/newwwie.com)
+5. 💪 Opened PR [#1](https://github.com/newwwie/newwwie.com/issues/126#issuecomment-2242632304) in [Andrei-Chiorian/newwwie.com](https://github.com/newwwie/newwwie.com)
+<!--END_SECTION:activity-->
 
 
 ## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
