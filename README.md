@@ -41,13 +41,21 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 <details>
     <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
     <span><img src="https://img.shields.io/badge/FPII-Alfonso X El Sabio-1877F2?style=for-the-badge"></span>
-    <span><img src="https://img.shields.io/badge/GPA-8.39/100-EFEEE9?style=for-the-badge"></span>
+    <span><img src="https://img.shields.io/badge/GPA-8.39/10-EFEEE9?style=for-the-badge"></span>
 </details>
 
 <details>
     <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-    - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
+
+- **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
+  - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
+  - Enhanced data accuracy by 30% through seamless integration of smart contracts into the front-end.
+  - Improved UI loading speed and mobile responsiveness, reducing user-reported bugs by 20%.
+
+- **Content Strategist - MERN Stack Intern** at TestBook (Remote) | Oct 2022 - Nov 2022
+  - Enhanced interactive coursework modules for data structures and web development, increasing student engagement by 30%.
+  - Mentored over 100 students in DSA & Web Development, significantly improving their technical proficiency.
+
 </details>
 
   
@@ -92,9 +100,12 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
   <details>
     <summary><h2> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
     <div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Andrei-Chiorian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Andrei-Chiorian&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Chiorian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Chiorian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Andrei-Chiorian&theme=tokyo-night)
     </div>
   </details>
