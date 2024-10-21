@@ -38,14 +38,16 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
    </summary>
 
 
-<details>
-    <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+
+## <img align ='center' src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/academics.gif" width="37" /> Academics 
+<div align="center">
     <span><img src="https://img.shields.io/badge/FPII-Alfonso X El Sabio-1877F2?style=for-the-badge"></span>
     <span><img src="https://img.shields.io/badge/GPA-8.39/10-EFEEE9?style=for-the-badge"></span>
-</details>
+</div>
 
-<details>
-    <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+
+## <img align ='center' src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/experience.gif" width="37" /> Tech Experience
+<div align="center">
 
 - **Full Stack Developer** at Sports Innovation Academy (Remote) | Apr 2023 - Oct 2024
     - Design and implementation of the database using MySQL.
@@ -60,7 +62,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
     - Automating processes like expense splitting, household task organization, and shopping tracking to improve roommate relationships and financial management.
     - Excited to contribute to the project from its early stages to full implementation, with the goal of making "Roommates" a valuable tool for those living in shared spaces.
 
-</details>
+</div>
 
   
 
@@ -98,7 +100,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 ![PyCharm](https://img.shields.io/badge/pycharm-%231572B6.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)   
 
-
+</div>
 
 </details>
  
