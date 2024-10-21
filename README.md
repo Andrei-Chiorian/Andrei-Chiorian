@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/Hi.gif" width="28px"/>, I'm Andrei</h1>
 <h2 align="center"> 
   Fullstack Developer
-  <a href="https://github.com/Andrei-Chiorian">
+  <a href="https://github.com/Andrei-Chiorian" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
