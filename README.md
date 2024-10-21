@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/Hi.gif" width="28px"/>, I'm Andrei</h1>
+<h1 align="center">Hi <img src="https://i.gifer.com/4SHX.gif" width="28px"/>, I'm Andrei</h1>
 <h2 align="center"> 
   Fullstack Developer
   <a href="https://github.com/Andrei-Chiorian" target="blank">
