@@ -103,6 +103,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 </details>
   <details>
     <summary><h2> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+    ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
     <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Andrei-Chiorian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
