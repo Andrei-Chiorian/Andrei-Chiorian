@@ -47,7 +47,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 
 
 ## <img align ='center' src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/experience.gif" width="37" /> Tech Experience
-<div align="center">
+
 
 - **Full Stack Developer** at Sports Innovation Academy (Remote) | Apr 2023 - Oct 2024
     - Design and implementation of the database using MySQL.
@@ -62,7 +62,6 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
     - Automating processes like expense splitting, household task organization, and shopping tracking to improve roommate relationships and financial management.
     - Excited to contribute to the project from its early stages to full implementation, with the goal of making "Roommates" a valuable tool for those living in shared spaces.
 
-</div>
 
   
 
