@@ -10,9 +10,15 @@
 </div>
 
 <div align="center">
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/flask.svg" width="200" />
- <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/python.svg" width="200" />
-
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/python.svg" width="100" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/flask.svg" width="100" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/numpy.svg" width="100" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/pandas.svg" width="100" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/tensorflow.svg" width="100" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/js.svg" width="100" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/react.svg" width="100" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/redux.svg" width="100" />
+ <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/redux-saga.svg" width="100" />
 </div>
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
