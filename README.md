@@ -8,7 +8,7 @@
 </h2>
 
 <div align="center">
- <img alt="GIF" src="https://andreiwebdevelopment.es/img/logo-new.png" width="350" />
+ <img alt="GIF" src="https://andreiwebdevelopment.es/img/logo-new.png" width="310" />
 </div>
 <hr>
 <div align="center">
