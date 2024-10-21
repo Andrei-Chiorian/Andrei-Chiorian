@@ -41,10 +41,9 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 
 
 ## <img align ='center' src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/academics.gif" width="37" /> Academics 
-<div align="center">
-    <span><img src="https://img.shields.io/badge/FPII-Alfonso X El Sabio-1877F2?style=for-the-badge"></span>
-    <span><img src="https://img.shields.io/badge/GPA-8.39/10-EFEEE9?style=for-the-badge"></span>
-</div>
+<span><img src="https://img.shields.io/badge/FPII-Alfonso X El Sabio-1877F2?style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/GPA-8.39/10-EFEEE9?style=for-the-badge"></span>
+
 
 
 ## <img align ='center' src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/experience.gif" width="37" /> Tech Experience
