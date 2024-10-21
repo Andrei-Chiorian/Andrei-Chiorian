@@ -47,14 +47,18 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 <details>
     <summary><h4> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
 
-- **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
-  - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
-  - Enhanced data accuracy by 30% through seamless integration of smart contracts into the front-end.
-  - Improved UI loading speed and mobile responsiveness, reducing user-reported bugs by 20%.
+- **Full Stack Developer** at Sports Innovation Academy (Remote) | Apr 2023 - Oct 2024
+    - Design and implementation of the database using MySQL.
+    - Creation of a REST API with Python and Flask, employing the blueprint architecture and the DAO (Data Access Object) pattern for data management.
+    - Development of the frontend with React.js, utilizing Redux and Redux-Saga for advanced state management and handling asynchronicity.
+    - Parallel maintenance of a WordPress website, including the creation of custom PHP functions for user management.
 
-- **Content Strategist - MERN Stack Intern** at TestBook (Remote) | Oct 2022 - Nov 2022
-  - Enhanced interactive coursework modules for data structures and web development, increasing student engagement by 30%.
-  - Mentored over 100 students in DSA & Web Development, significantly improving their technical proficiency.
+- **Full Stack Developer** at Freelance (Remote) | Jan 2024 - Oct 2024
+    - Collaborating with Eduardo Neila Calzado on the development of "Roommates," an app designed to simplify task and shopping management in shared living spaces.
+    - Building the backend using Python and Flask.
+    - Developing the frontend with React Native.
+    - Automating processes like expense splitting, household task organization, and shopping tracking to improve roommate relationships and financial management.
+    - Excited to contribute to the project from its early stages to full implementation, with the goal of making "Roommates" a valuable tool for those living in shared spaces.
 
 </details>
 
@@ -101,7 +105,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
     <summary><h2> <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
     <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Andrei-Chiorian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Andrei-Chiorian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Andrei-Chiorian&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-Chiorian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br/>
