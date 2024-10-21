@@ -1,7 +1,6 @@
 <div align="center">
  <img alt="GIF" src="https://andreiwebdevelopment.es/img/logo-new.png" width="310" />
 </div>
-<hr>
 
 <h1 align="center">Hi <img src="https://i.gifer.com/4SHX.gif" width="28px"/>, I'm Andrei</h1>
 
