@@ -32,7 +32,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 <details>
     <summary>
        <h2> 
-         <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/about.png" width="37" /> 
+         <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/0db0e15ceeb4ae669e3520d0301ca8e1d4c6574b/blob/main/icons/about.png" width="37" /> 
        Resume
        </h2>
    </summary>
