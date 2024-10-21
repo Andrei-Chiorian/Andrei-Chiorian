@@ -1,3 +1,8 @@
+<div align="center">
+ <img alt="GIF" src="https://andreiwebdevelopment.es/img/logo-new.png" width="310" />
+</div>
+<hr>
+
 <h1 align="center">Hi <img src="https://i.gifer.com/4SHX.gif" width="28px"/>, I'm Andrei</h1>
 
 <h2 align="center"> 
@@ -7,10 +12,7 @@
   </a>
 </h2>
 
-<div align="center">
- <img alt="GIF" src="https://andreiwebdevelopment.es/img/logo-new.png" width="310" />
-</div>
-<hr>
+
 <div align="center">
  <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/7b25906d83257cfb8631794da84ace5d2a862c9d/blob/main/icons/python.svg" width="70" />
  <img alt="GIF" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/56b54f10b4a44072e96a190fafb8aacc4267afd6/blob/main/icons/flask.svg" width="60" />
