@@ -115,11 +115,11 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 
 <div>
 
-## <img align ='center' src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/main/icons/Contact.gif" width="37" /> Contact Me
+## <img align ='center' src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/90fcb1ec06c12e8e55a5c82f6465d628c9588163/blob/main/icons/Contact.gif" width="37" /> Contact Me
 <p>
     <i>You can reach out to me via</i>
     <a href="mailto:achiorian23@yahoo.com">
-    <img align="center" src="https://i.gifer.com/GeSE.gif" width="100"/>
+    <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/90fcb1ec06c12e8e55a5c82f6465d628c9588163/blob/main/icons/Gmail.gif" width="100"/>
     </a>
 </p>
 </div>
