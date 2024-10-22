@@ -127,14 +127,11 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif" width="37" /> Socials
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
-  <a href="https://github.com/ParthJohri">
-    <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/readME/icons/Github.gif" width="70"/>
-  </a>
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">  
   <a href="https://linkedin.com/in/parthjohri07">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
+     <img alt="GIF" src="https://andreiwebdevelopment.es/img/logo-new.png" width="70" />
   </a>
-  <a href="https://www.quora.com/profile/Parth-Johri-6">
+  <a href="https://andreiwebdevelopment.es/">
     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Quora.gif" width="70"/>
   </a>
 </div>  
