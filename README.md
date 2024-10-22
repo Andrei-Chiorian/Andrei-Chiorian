@@ -132,7 +132,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
      <img align="center" src="https://andreiwebdevelopment.es/img/logo-new.png" width="50" />
   </a>
   <a href="https://andreiwebdevelopment.es/">
-    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Quora.gif" width="70"/>
+    <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/c526b7a29da89de0475cae14c4f18dbd5489e2d8/blob/main/icons/Linkedin.gif" width="70"/>
   </a>
 </div>  
 </div>
