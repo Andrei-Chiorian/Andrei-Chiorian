@@ -123,8 +123,9 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 </p>
 </details>
 
-<details>
-  <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
+<div>
+
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif" width="37" /> Socials
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
   <a href="https://github.com/ParthJohri">
@@ -136,10 +137,8 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
   <a href="https://www.quora.com/profile/Parth-Johri-6">
     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Quora.gif" width="70"/>
   </a>
+</div>  
 </div>
-
-  
-</details>
 
 ### <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/016aaec567e41f2fa9ca260f9fed63d2a6c8a3ad/blob/main/icons/activity.gif"  width="25"/> Recent Activity
 
