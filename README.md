@@ -129,7 +129,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">  
   <a href="https://linkedin.com/in/parthjohri07">
-     <img align="center" src="https://andreiwebdevelopment.es/img/logo-new.png" width="70" />
+     <img align="center" src="https://andreiwebdevelopment.es/img/logo-new.png" width="60" />
   </a>
   <a href="https://andreiwebdevelopment.es/">
     <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Quora.gif" width="70"/>
