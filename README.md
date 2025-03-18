@@ -128,10 +128,10 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif" width="37" /> Socials
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">  
-  <a href="https://linkedin.com/in/parthjohri07">
+  <a href="https://andreiwebdevelopment.es/">
      <img align="center" src="https://andreiwebdevelopment.es/img/logo-new.png" width="50" />
   </a>
-  <a href="https://andreiwebdevelopment.es/">
+  <a href="https://linkedin.com/in/parthjohri07">
     <img align="center" src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/c526b7a29da89de0475cae14c4f18dbd5489e2d8/blob/main/icons/Linkedin.gif" width="70"/>
   </a>
 </div>  
