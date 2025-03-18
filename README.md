@@ -49,7 +49,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in both front
 ## <img align ='center' src="https://github.com/Andrei-Chiorian/Andrei-Chiorian/blob/2e427a5c79d477f3b1f81b3a4689ae595d018342/blob/main/icons/experience.gif" width="37" /> Tech Experience
 
 
-- **Full Stack Developer** at Sports Innovation Academy (Remote) | Apr 2023 - Oct 2024
+- **Full Stack Developer** at Sports Innovation Academy (Remote) | Apr 2023 - Feb 2025
     - Design and implementation of the database using MySQL.
     - Creation of a REST API with Python and Flask, employing the blueprint architecture and the DAO (Data Access Object) pattern for data management.
     - Development of the frontend with React.js, utilizing Redux and Redux-Saga for advanced state management and handling asynchronicity.
